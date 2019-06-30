@@ -1,0 +1,1 @@
+RUN `./build-and-push.sh <version>` e.g. `./build-and-push.sh latest` 
