@@ -8,3 +8,4 @@ config-file-provider
 ansicolor
 google-login
 workflow-aggregator
+htmlpublisher
