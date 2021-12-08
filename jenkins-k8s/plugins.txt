@@ -7,5 +7,9 @@ matrix-auth
 config-file-provider
 ansicolor
 google-login
+workflow-job
 workflow-aggregator
 htmlpublisher
+ws-cleanup
+credentials-binding
+google-play-android-publisher
