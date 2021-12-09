@@ -18,6 +18,6 @@ then
     usage
     exit 1
 else
-    docker build -t rlon008/jenkins-k8s:$1 .
+    docker buildx build --platform linux/amd64 -t rlon008/jenkins-k8s:$1 .
     docker push rlon008/jenkins-k8s:$1
 fi
