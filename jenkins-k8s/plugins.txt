@@ -13,3 +13,4 @@ htmlpublisher
 ws-cleanup
 credentials-binding
 google-play-android-publisher
+gcp-secrets-manager-credentials-provider
