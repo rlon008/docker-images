@@ -1,0 +1,1 @@
+RUN `./build.sh <version>` e.g. `./build.sh latest` 
